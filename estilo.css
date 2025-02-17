@@ -36,3 +36,7 @@ a { padding: 10px;}
 a:hover { background-color: #2d9ec2;
 border-radius: 10px;
 padding: 10px;}
+
+section{ padding: 50px;
+text-align: center;
+margin-bottom: 30px;}
